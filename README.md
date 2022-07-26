@@ -1,2 +1,2 @@
 # Jogos
-Jogos simples feitos em python
+Jogo de adivinhação e forca em python.
